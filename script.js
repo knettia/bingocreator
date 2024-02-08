@@ -7,7 +7,7 @@ fetch('cells.json')
     possibleItems = data;
     generateBingoCard();
   })
-  .catch(error => console.error('Error fetching cells.json:', error));
+  .catch(error => console.error('Error fetching cells_base.json:', error));
 
 function getRandomWeightedItem(possibleItems) {
     const totalWeight = possibleItems.reduce((sum, item) => sum + item.weight, 0);
