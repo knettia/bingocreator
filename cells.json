@@ -13,31 +13,6 @@
     {"text": "taped a brick to their spacebar", "weight": 75},
     {"text": "200+ ping", "weight": 75},
     {"text": "rage quit", "weight": 100},
-
-    {"text": "dabbing", "weight": 10},
-    {"text": "kazotsky kick", "weight": 10},
-    {"text": "fucks your body in lobby", "weight": 25},
-    {"text": "non-english swearing", "weight": 25},
-
-    {"text": "shotgun knife", "weight": 50},
-
-    {"image": "textures/crescendo.png", "weight": 50},
-    {"image": "textures/sanic_knife.png", "weight": 50},
-
-    {"image": "textures/noob_sign.png", "weight": 75},
-    {"image": "textures/claymore.png", "weight": 50},
-
-    {"text": "majority of votes are murder", "weight": 90},
-    {"text": "murder 3 times in a row", "weight": 10},
-
-    {"image": "textures/hyperbeam.png", "weight": 2},
-    {"image": "textures/ban_hammer.png", "weight": 2},
-    {"image": "textures/icytea_knife.png", "weight": 75},
-    {"text": "icytea loadout", "weight": 50},
-
-    {"text": "godmode glitcher", "weight": 20},
-    {"text": "3 murder maps", "weight": 10},
-
     {"text": "\"no life\"", "weight": 10},
     {"text": "\"team?\"", "weight": 10},
     {"text": "\"you're cheating\"", "weight": 10},
