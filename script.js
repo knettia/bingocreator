@@ -1,7 +1,7 @@
 const bingoCard = document.getElementById("bingo-card");
 let possibleItems;
 
-fetch('cells.json')
+fetch('cells_base.json')
   .then(response => response.json())
   .then(data => {
     possibleItems = data;
